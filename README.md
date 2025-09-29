@@ -88,22 +88,3 @@
 
 ###
 
-<div align="center">
-  <img src="?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShubhranshuAcharya/ShubhranshuAcharya/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-###
-
-
-
-###
