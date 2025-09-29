@@ -77,14 +77,16 @@
 
 ###
 
-<div align="center">
+<img align="right" height="204" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjMjJzaHFsbHY2cG51dDgxcXEybXBubmFjcjI5bGdqb2hhbWhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ShubhranshuAcharya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhranshuAcharya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="171" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjMjJzaHFsbHY2cG51dDgxcXEybXBubmFjcjI5bGdqb2hhbWhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-###
 
