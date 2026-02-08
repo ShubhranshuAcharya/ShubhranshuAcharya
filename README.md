@@ -1,4 +1,16 @@
-<h3 align="left">Hi 👋! My name is SHUBHRANSHU ACHARYA!<br><br> 💻 Passionate Software Developer | Lifelong Learner | Student<br>I’m a student and an enthusiastic software developer who loves building projects that solve real-world problems. My journey in tech is driven by curiosity, creativity, and a desire to learn something new every day.<br><br>🚀 What I do<br><br>- Explore modern frameworks, tools,    and languages<br>- Work on hands-on projects to sharpen problem-solving skills<br>- Contribute to open-source and collaborative learning<br><br>✨ Always eager to collaborate, learn from others, and share knowledge.</h3>
+<h3 align="left">
+Hi 👋! My name is SHUBHRANSHU ACHARYA!<br><br>
+🤖 AI & Data Science Enthusiast | Software Developer | Lifelong Learner<br>
+I’m a Computer Science student and an enthusiastic developer with a strong interest in AI, Machine Learning, and data-driven problem solving. I enjoy building intelligent systems and projects that transform data into meaningful insights and real-world impact.<br><br>
+
+🚀 What I do<br><br>
+- Explore AI, Machine Learning, Data Science, and modern frameworks<br>
+- Build hands-on projects in NLP, analytics, and full-stack development<br>
+- Learn continuously through experimentation, collaboration, and open-source work<br><br>
+
+✨ Always excited to collaborate, learn from others, and share knowledge while growing in the world of AI and data.
+</h3>
+
 
 ###
 
@@ -74,7 +86,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShubhranshuAcharya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShubhranshuAcharya&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuAcharya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShubhranshuAcharya&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShubhranshuAcharya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
