@@ -108,7 +108,7 @@ I’m a Computer Science student and an enthusiastic developer with a strong int
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=ShubhranshuAcharya&icon=0&color=0)](https://visitcount.itsvg.in)
-<img align="right" height="175" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjMjJzaHFsbHY2cG51dDgxcXEybXBubmFjcjI5bGdqb2hhbWhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjMjJzaHFsbHY2cG51dDgxcXEybXBubmFjcjI5bGdqb2hhbWhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
 
