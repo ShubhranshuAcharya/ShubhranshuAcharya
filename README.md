@@ -1,3 +1,8 @@
+<!-- Animated Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Shubhranshu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
 <h3 align="left">
 Hi 👋! My name is SHUBHRANSHU ACHARYA!<br><br>
 🤖 AI & Data Science Enthusiast | Software Developer | Lifelong Learner<br>
