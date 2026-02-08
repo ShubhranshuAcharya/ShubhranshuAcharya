@@ -102,6 +102,16 @@ I’m a Computer Science student and an enthusiastic developer with a strong int
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&layout=compact" />
   </div>
+  <!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <h3>💜 Thanks for visiting my profile! Let's connect and build something amazing together!</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</div>
+
 
  
 
