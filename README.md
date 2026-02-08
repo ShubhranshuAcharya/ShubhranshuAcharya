@@ -91,6 +91,18 @@ I’m a Computer Science student and an enthusiastic developer with a strong int
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656879-c5a96b8a-a03a-42e6-9e59-ce7b34d3b7db.gif" width="60">
+</div>
+
+🥇 **Runner-Up, Smart India Hackathon 2024**  – Developed a technology-driven social impact solution.   
+🎖️ **Research Publication** - “CYBERGUARD – NLP-based Cybercrime Reporting,” Journal of Xidian University.  
+🌟 **Google Developer Student Club (GDSC SOA)** - Event Organizer & Technical Member  
+💼 **Software Developer Intern** - Attractify Technologies (IIT Bhubaneswar) 
+
 <h3> 📊 GitHub Stats</h3>
 
 <div style="display:flex; gap:20px; align-items:flex-start; justify-content:space-between;">
