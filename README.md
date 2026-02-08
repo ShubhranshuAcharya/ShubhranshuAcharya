@@ -91,14 +91,15 @@ I’m a Computer Science student and an enthusiastic developer with a strong int
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhranshuAcharya&theme=highcontrast&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhranshuAcharya&theme=highcontrast&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&layout=compact" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShubhranshuAcharya&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ShubhranshuAcharya&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" width="49%" />
 </p>
+
 
 
 
