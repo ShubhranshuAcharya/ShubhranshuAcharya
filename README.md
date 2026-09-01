@@ -3,30 +3,24 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Shubhranshu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<h3 align="left">
-Hi 👋! My name is SHUBHRANSHU ACHARYA!<br><br>
-🤖 AI & Data Science Enthusiast | Software Developer | Lifelong Learner<br>
-I’m a Computer Science student and an enthusiastic developer with a strong interest in AI, Machine Learning, and data-driven problem solving. I enjoy building intelligent systems and projects that transform data into meaningful insights and real-world impact.<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Samarth%20Kumar&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Build.%20Ship.%20Learn.%20Repeat.&descSize=20" />
 
-🚀 What I do<br><br>
-- Explore AI, Machine Learning, Data Science, and modern frameworks<br>
-- Build hands-on projects in NLP, analytics, and full-stack development<br>
-- Learn continuously through experimentation, collaboration, and open-source work<br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Hackathon+Winner;Mobile+App+Builder&color=C9A44C&background=00000000" />
+</p>
 
-✨ Always excited to collaborate, learn from others, and share knowledge while growing in the world of AI and data.
-</h3>
+<div align="center">
 
+### 💻 Data Analyst | Full-Stack Developer | 🚀 Hackathon Winner | 🎓 CSE 2022–26
 
-###
+<p>
+  <a href="https://github.com/SAMARTH-HERE"><img src="https://img.shields.io/badge/GitHub-SAMARTH--HERE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/samarth-kumar-here"><img src="https://img.shields.io/badge/LinkedIn-samarth--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samarthgupta316@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
+
 
 ###
 
