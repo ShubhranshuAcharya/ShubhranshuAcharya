@@ -9,10 +9,10 @@
 
 <h1>Hi, I'm SHUBHRANSHU ACHARYA 👋</h1>
 
-<h3>AI & Data Engineer</h3>
+<h3>AI & Full-Stack Developer</h3>
 
 <p>
-Software Engineer • Full Stack Developer
+Software Engineer • Data Engineer
 </p>
 
 <p>
@@ -29,11 +29,11 @@ and scalable full-stack products that solve real-world problems.
 
 <p>
 <a href="https://sacharya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/Portfolio-VISIT-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubhranshu-acharya/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88"/>
 </a>
 </p>
 
@@ -43,7 +43,7 @@ and scalable full-stack products that solve real-world problems.
 </a>
 
 <a href="mailto:shubhranshuacharya23@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-39FF88?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-39FF88?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=39FF88"/>
 </a>
 </p>
 
