@@ -103,21 +103,6 @@ I’m a Computer Science student and an enthusiastic developer with a strong int
 🌟 **Google Developer Student Club (GDSC SOA)** - Event Organizer & Technical Member  
 💼 **Software Developer Intern** - Attractify Technologies (IIT Bhubaneswar) 
 
-<h3> 📊 GitHub Stats</h3>
-
-<div style="display:flex; gap:20px; align-items:flex-start; justify-content:space-between;">
-
-  <div style="flex:1; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhranshuAcharya&theme=highcontrast&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhranshuAcharya&theme=highcontrast&hide_border=true&layout=compact" />
-  </div>
-  <!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-</div>
 
 <div align="center">
   <h3>💜 Thanks for visiting my profile! Let's connect and build something amazing together!</h3>
