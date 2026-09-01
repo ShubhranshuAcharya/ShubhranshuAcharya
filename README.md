@@ -7,18 +7,18 @@
 <!-- LEFT SIDE: DETAILS -->
 <td width="55%" valign="middle">
 
-<h1>Hi, I'm Mohd Kashif 👋</h1>
+<h1>Hi, I'm Shubhranshu Acharya 👋</h1>
 
-<h3>AI & Machine Learning Engineer</h3>
+<h3>AI & Data Engineer</h3>
 
 <p>
 Software Engineer • Full Stack Developer
 </p>
 
 <p>
-🎓 <b>BSc Computer Science</b><br>
-🏫 Delhi University<br>
-📍 Delhi, India<br>
+🎓 <b>BTech Computer Science</b><br>
+🏫 SOA University<br>
+📍 Del, India<br>
 💡 AI • Machine Learning • Full Stack • Cloud
 </p>
 
