@@ -1,7 +1,5 @@
 <!-- Animated Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Shubhranshu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+<
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Shubhranshu%20Acharya&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Build.%20Ship.%20Learn.%20Repeat.&descSize=20" />
