@@ -32,14 +32,14 @@ and scalable full-stack products that solve real-world problems.
 <img src="https://img.shields.io/badge/Portfolio-Visit-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Shubhranshu-Acharya/">
+<a href="https://www.linkedin.com/in/shubhranshu-acharya/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88"/>
 </a>
 </p>
 
 <p>
 <a href="https://github.com/ShubhranshuAcharya">
-<img src="https://img.shields.io/badge/GitHub-kashif7230-39FF88?style=flat-square&labelColor=0D1117&logo=github&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/GitHub-ShubhranshuAcharya-39FF88?style=flat-square&labelColor=0D1117&logo=github&logoColor=39FF88"/>
 </a>
 
 <a href="mailto:shubhranshuacharya23@gmail.com">
