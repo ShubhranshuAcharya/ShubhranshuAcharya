@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Shubhranshu%20Acharya&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Build.%20Ship.%20Learn.%20Repeat.&descSize=20" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Hackathon+Winner;Mobile+App+Builder&color=C9A44C&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Hackathon+Winner;Data+Analyst&color=C9A44C&background=00000000" />
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@
 ### 💻 Data Analyst | Full-Stack Developer | 🚀 Hackathon Winner | 🎓 CSE 2022–26
 
 <p>
-  <a href="https://github.com/SAMARTH-HERE"><img src="https://img.shields.io/badge/GitHub-SAMARTH--HERE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/samarth-kumar-here"><img src="https://img.shields.io/badge/LinkedIn-samarth--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:samarthgupta316@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ShubhranshuAcharya"><img src="https://img.shields.io/badge/GitHub-Shubhranshu--Acharya-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Shubhranshu-Acharya"><img src="https://img.shields.io/badge/LinkedIn-shubhranshu--Acharya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhranshuacharya23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
