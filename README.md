@@ -7,7 +7,7 @@
 <!-- LEFT SIDE: DETAILS -->
 <td width="55%" valign="middle">
 
-<h1>Hi, I'm Shubhranshu Acharya 👋</h1>
+<h1>Hi, I'm SHUBHRANSHU ACHARYA 👋</h1>
 
 <h3>AI & Data Engineer</h3>
 
@@ -18,8 +18,8 @@ Software Engineer • Full Stack Developer
 <p>
 🎓 <b>BTech Computer Science</b><br>
 🏫 SOA University<br>
-📍 Del, India<br>
-💡 AI • Machine Learning • Full Stack • Cloud
+📍 Odisha, India<br>
+💡 AI • Data • Full Stack • Cloud
 </p>
 
 <p>
