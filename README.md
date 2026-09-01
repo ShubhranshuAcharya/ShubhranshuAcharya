@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+AI+%26+Machine+Learning+Engineer;%3E+Software+Engineer;%3E+Full+Stack+Developer;%3E+Building+Intelligent+Applications..." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%24+building real-world products;%3E+AI+%26+Machine+Learning+Engineer;%3E+Software+Engineer;%3E+Full+Stack+Developer;%3E+Building+Intelligent+Applications..." alt="Typing animation"/>
 
 </div>
 
