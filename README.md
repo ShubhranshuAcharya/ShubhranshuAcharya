@@ -28,7 +28,7 @@ and scalable full-stack products that solve real-world problems.
 </p>
 
 <p>
-<a href="https://kashif7230.github.io/Portfolio-website/">
+<a href="https://sacharya.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88"/>
 </a>
 
@@ -47,9 +47,7 @@ and scalable full-stack products that solve real-world problems.
 </a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=kashif7230&style=flat-square&color=39FF88&label=PROFILE+VIEWS"/>
-</p>
+
 
 </td>
 
