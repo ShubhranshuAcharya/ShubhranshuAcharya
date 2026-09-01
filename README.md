@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Samarth%20Kumar&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Build.%20Ship.%20Learn.%20Repeat.&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12002b,50:2b1055,100:000428&height=260&section=header&text=Shubhranshu%20Acharya&fontSize=46&fontColor=bb86fc&animation=twinkling&desc=Build.%20Ship.%20Learn.%20Repeat.&descSize=20" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Hackathon+Winner;Mobile+App+Builder&color=C9A44C&background=00000000" />
 </p>
