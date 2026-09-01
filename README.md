@@ -56,7 +56,7 @@ and scalable full-stack products that solve real-world problems.
 <!-- RIGHT SIDE: SVG PORTRAIT -->
 <td width="45%" align="center" valign="middle">
 
-<img src="./portrait.svg" alt="Mohd Kashif" width="420"/>
+<img src="download (3).svg" alt="Mohd Kashif" width="420"/>
 
 </td>
 
