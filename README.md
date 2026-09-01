@@ -39,7 +39,7 @@ and scalable full-stack products that solve real-world problems.
 
 <p>
 <a href="https://github.com/ShubhranshuAcharya">
-<img src="https://img.shields.io/badge/GitHub-ShubhranshuAcharya-39FF88?style=flat-square&labelColor=0D1117&logo=github&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/GITHUB-ShubhranshuAcharya-39FF88?style=flat-square&labelColor=0D1117&logo=github&logoColor=39FF88"/>
 </a>
 
 <a href="mailto:shubhranshuacharya23@gmail.com">
