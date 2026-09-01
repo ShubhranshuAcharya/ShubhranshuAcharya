@@ -7,7 +7,7 @@
 <!-- LEFT SIDE: DETAILS -->
 <td width="55%" valign="middle">
 
-<h1>Hi, I'm SHUBHRANSHU ACHARYA 👋</h1>
+<h1>SHUBHRANSHU ACHARYA 👋</h1>
 
 <h3>AI & Full-Stack Developer</h3>
 
