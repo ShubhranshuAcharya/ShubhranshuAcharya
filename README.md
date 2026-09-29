@@ -69,33 +69,14 @@ and scalable full-stack products that solve real-world problems.
 
 </div>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Expertise
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,supabase,firebase,tailwind,redux,git,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,linux,vscode,blender,figma,postman,github" />
+</p>
 
-### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Technologies
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-</div>
 
 
 ## 🏆 **Achievements & Certifications**
