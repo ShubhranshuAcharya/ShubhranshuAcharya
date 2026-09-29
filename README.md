@@ -81,7 +81,7 @@ and scalable full-stack products that solve real-world problems.
 
 ## 🏆 **Achievements**
 
-<div align="center">
+<div align="">
   <img src="https://user-images.githubusercontent.com/74038190/216656879-c5a96b8a-a03a-42e6-9e59-ce7b34d3b7db.gif" width="60">
 </div>
 
