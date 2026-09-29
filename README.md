@@ -55,7 +55,7 @@ and scalable full-stack products that solve real-world problems.
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+  <img src="profile.svg" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
  
 </td>
