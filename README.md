@@ -88,7 +88,7 @@ and scalable full-stack products that solve real-world problems.
 🥇 **Runner-Up, Smart India Hackathon 2024**  – Developed a technology-driven social impact solution.   
 🎖️ **Research Publication** - “CYBERGUARD – NLP-based Cybercrime Reporting,” Journal of Xidian University.  
 🌟 **Salesforce Trailhead** - Mountaineer Rank (19000+ points) Titled as "AGETBLAZER CHAMPION 2026".
-🌟 **Google Developer Student Club (GDSC SOA)** - Event Organizer & Technical Member  
+🌟 **Google Developer Student Club (GDSC SOA)** - Event Organizer & Technical Member.
 💼 **Software Developer Intern** - Attractify Technologies (IIT Bhubaneswar) 
 
 
