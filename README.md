@@ -54,6 +54,19 @@ and scalable full-stack products that solve real-world problems.
 
 
 </td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+  <br/><br/>
+  <a href="https://portfolio.devlyhub.in">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-portfolio.devlyhub.in-00f5d4?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  <br/>
+  <a href="mailto:sahilmd.dev@gmail.com">
+    <img src="https://img.shields.io/badge/📫_Contact_Me-sahilmd.dev@gmail.com-00f5d4?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+</td>
+</tr>
+</table>
 
 
 ---
