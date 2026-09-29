@@ -20,8 +20,6 @@ Software Engineer • Data Engineer
 </p>
 
 <p>
-🎓 <b>BTech Computer Science</b><br>
-🏫 SOA University<br>
 📍 Odisha, India<br>
 💡 AI • Data • Full Stack • Cloud
 </p>
